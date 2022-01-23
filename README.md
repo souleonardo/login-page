@@ -1,4 +1,4 @@
-#Login Page" 
+#Login Page
 ## Used Tecnologies
 <ul>
   <li>HTML</>
@@ -7,6 +7,7 @@
   
 </ul>
 
+<img src="https://github.com/souleonardo/login-page/blob/master/src/img/login-page-preview.png">
 
 
 Check it out on => https://souleonardo.github.io/a-era-artificial-landingpage/
